@@ -1,0 +1,6 @@
+{
+  "name": "PDF Converter & Tools",
+  "description": "Select images, scan documents, arrange & edit pages, and convert to PDF. Features sharing, merging, and PDF to image extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
